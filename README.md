@@ -1,16 +1,10 @@
 # sample_auto_route
 
-A new Flutter project.
+Created Sample Auto Route example with AutoTabsRouter and Guard from https://youtu.be/QGzVuzjXw2k
 
-## Getting Started
+## ScreenShots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align='left'>
+  <img src='https://user-images.githubusercontent.com/70351342/182978772-72a9fd92-822d-482a-9e7b-8d92111ff4df.png' width=207 height=448>
+  <img src='https://user-images.githubusercontent.com/70351342/182978776-cb6a3428-4560-441e-b1a5-8b5eb65d87cf.png' width=207 height=448>
+</div>
